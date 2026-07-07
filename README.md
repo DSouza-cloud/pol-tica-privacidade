@@ -1,2 +1,2 @@
-# pol-tica-privacidade
+# politica-privacidade
 Política de Privacidade - App TimeWork
